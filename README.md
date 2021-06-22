@@ -1,0 +1,2 @@
+# KoreanNLP
+Learn Korean Embeddings
